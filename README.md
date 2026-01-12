@@ -1,6 +1,6 @@
 # FUTURE_DS_02
 # Facebook Ads Performance Dashboard
-![Dashboard Preview](preview.png)
+![Dashboard Preview](Preview.png)
 ## Project Overview
 This project was completed during my internship at **Future Intern**. The goal was to analyze Facebook marketing data to identify key performance indicators (KPIs), track ROI, and optimize ad spend across different demographics.
 
